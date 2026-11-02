@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+backend/portal.sqlite3*
+backend/uploads/
+frontend/node_modules/
+frontend/.next/
+*.pyc
+.env
+.env.*
+*.pem
+*.key
+*.log
+.DS_Store
+.vscode/
+.idea/
